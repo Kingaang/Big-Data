@@ -1,0 +1,4 @@
+1)Zakładanie konta na Databricks.
+2)Instalacja środowiska.
+3)Utworzenie repozytorium na github.
+4)Zapoznanie się z mini kursem Spark.
